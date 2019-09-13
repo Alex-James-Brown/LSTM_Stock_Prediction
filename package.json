@@ -1,0 +1,17 @@
+{
+  "name": "stockprediction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^1.2.9",
+    "axios": "^0.19.0",
+    "axois": "0.0.1-security",
+    "csv-parser": "^2.3.0"
+  }
+}
