@@ -1,2 +1,4 @@
 node_modules
 model
+.env
+chart.png
